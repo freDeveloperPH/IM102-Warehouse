@@ -40,8 +40,24 @@ namespace WarehouseApp
                         });
                     }
                 }
+                conn.Close();
             }
             return list;
-        }
+        }  
+
+         //Add Product
+         public void CreateProduct(Product product)
+         {
+             using(MySqlConnection conn = GetConnection())
+             {
+                 conn.Open();
+                 MySqlCommand cmd = conn.CreateCommand();
+                 cmd.CommandText = "INSERT INTO Product(Name, Quantity) VALUES (@Name, @Quantity)";
+                 cmd.Parameters.AddWithValue("@Name", product.Name);
+                 cmd.Parameters.AddWithValue("@Quantity", product.Quantity);
+                 cmd.ExecuteNonQuery();
+                 conn.Close();
+             }
+         }
     }
 }
