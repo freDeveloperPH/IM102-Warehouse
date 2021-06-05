@@ -23,6 +23,9 @@ C:\Users\siegf\Desktop\repo\IM102-Warehouse\WarehouseApp\obj\Debug\netcoreapp3.1
 C:\Users\siegf\Desktop\repo\IM102-Warehouse\WarehouseApp\obj\Debug\netcoreapp3.1\WarehouseApp.RazorCoreGenerate.cache
 C:\Users\siegf\Desktop\repo\IM102-Warehouse\WarehouseApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
 C:\Users\siegf\Desktop\repo\IM102-Warehouse\WarehouseApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\siegf\Desktop\repo\IM102-Warehouse\WarehouseApp\obj\Debug\netcoreapp3.1\Razor\Views\Product\Create.cshtml.g.cs
+C:\Users\siegf\Desktop\repo\IM102-Warehouse\WarehouseApp\obj\Debug\netcoreapp3.1\Razor\Views\Product\Details.cshtml.g.cs
+C:\Users\siegf\Desktop\repo\IM102-Warehouse\WarehouseApp\obj\Debug\netcoreapp3.1\Razor\Views\Product\Edit.cshtml.g.cs
 C:\Users\siegf\Desktop\repo\IM102-Warehouse\WarehouseApp\obj\Debug\netcoreapp3.1\Razor\Views\Product\Index.cshtml.g.cs
 C:\Users\siegf\Desktop\repo\IM102-Warehouse\WarehouseApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
 C:\Users\siegf\Desktop\repo\IM102-Warehouse\WarehouseApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
@@ -38,4 +41,4 @@ C:\Users\siegf\Desktop\repo\IM102-Warehouse\WarehouseApp\obj\Debug\netcoreapp3.1
 C:\Users\siegf\Desktop\repo\IM102-Warehouse\WarehouseApp\obj\Debug\netcoreapp3.1\WarehouseApp.dll
 C:\Users\siegf\Desktop\repo\IM102-Warehouse\WarehouseApp\obj\Debug\netcoreapp3.1\WarehouseApp.pdb
 C:\Users\siegf\Desktop\repo\IM102-Warehouse\WarehouseApp\obj\Debug\netcoreapp3.1\WarehouseApp.genruntimeconfig.cache
-C:\Users\siegf\Desktop\repo\IM102-Warehouse\WarehouseApp\obj\Debug\netcoreapp3.1\Razor\Views\Product\Create.cshtml.g.cs
+C:\Users\siegf\Desktop\repo\IM102-Warehouse\WarehouseApp\obj\Debug\netcoreapp3.1\Razor\Views\Product\Delete.cshtml.g.cs
